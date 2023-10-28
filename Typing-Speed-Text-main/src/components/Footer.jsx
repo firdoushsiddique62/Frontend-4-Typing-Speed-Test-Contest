@@ -14,16 +14,16 @@ const Footer = () => {
   return (
     <div className="footer">
       <div className="links">
-        <a href="https://github.com/firdoushsiddique62" target="_blank">
+        <a href="https://github.com/shubhamsharmaproch/Typing_Speed_Main" target="_blank">
           <GitHubIcon />
         </a>
-        <a href="https://www.linkedin.com/in/firdoushsiddique62/" target="_blank">
+        <a href="https://www.linkedin.com/in/shubham-sharma-51613a244/" target="_blank">
           <LinkedInIcon />
         </a>
-        <a href="https://twitter.com" target="_blank">
+        <a href="https://twitter.com/" target="_blank">
           <TwitterIcon />
         </a>
-        <a href="https://www.instagram.com" target="_blank">
+        <a href="https://www.instagram.com/" target="_blank">
           <InstagramIcon />
         </a>
       </div>
